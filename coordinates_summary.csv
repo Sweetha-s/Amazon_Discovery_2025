@@ -1,0 +1,5 @@
+SiteID,Latitude_dd,Longitude_dd,Lat_DMS,Lon_DMS,Feature_note,Verification1,Verification2
+XINGU001,-11.4656,-52.2133,11°27′56″ S,52°12′48″ W,Central site of Kuhikugu - settlement core,RGB_Landsat,NDVI_Sentinel
+XINGU002,-11.5336,-52.1689,11°32′01″ S,52°10′08″ W,Modern village near archaeological ruins,RGB_Landsat,NDVI_Sentinel
+XINGU003,-11.49,-52.2783,11°29′24″ S,52°16′42″ W,Circular mound pattern detected,RGB_Landsat,NDVI_Sentinel
+XINGU004,-11.5919,-52.3206,11°35′31″ S,52°19′14″ W,Suspected geoglyph near forest-agriculture boundary,RGB_Landsat,NDVI_Sentinel
